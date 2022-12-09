@@ -6,15 +6,15 @@ that barcode/keyword from barcodelookup.com and saves these products in an excel
 where the script.py lies. The **brands.xlsx** should contain a single column containing barcodes and research terms.
 
 The scraper scrapes the following fields;
- -- Product Name
- -- Barcode Formats
- -- Category
- -- Manufacturer
- -- Brand
+ - Product Name
+ - Barcode Formats
+ - Category
+ - Manufacturer
+ - Brand
 
 ### Procedure to run the scraper
 #### Create and Activate the virtual environment(windows)
-``virtualenv venv``  
+``virtualenv venv``    
 ``venv\scripts\venv``
 
 #### Install Requirements
