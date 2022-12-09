@@ -14,7 +14,8 @@ The scraper scrapes the following fields;
 
 ### Procedure to run the scraper
 #### Create and Activate the virtual environment(windows)
-``virtualenv venv``    
+``virtualenv venv``
+
 ``venv\scripts\venv``
 
 #### Install Requirements
