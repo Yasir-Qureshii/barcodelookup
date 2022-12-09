@@ -27,3 +27,4 @@ The scraper scrapes the following fields;
 
 ### Convert the script to executable(.exe) file
 ``pyinstaller --onefile script.py``
+This command creates an executable of the script in a dist folder. 
