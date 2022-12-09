@@ -23,3 +23,7 @@ The scraper scrapes the following fields;
 
 #### Run the scraper
 ``python script.py``
+
+
+### Convert the script to executable(.exe) file
+``pyinstaller --onefile script.py``
